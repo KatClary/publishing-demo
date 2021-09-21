@@ -2,9 +2,13 @@ h1 {
     text-align: center;
   }
 
+h6 {
+    color: grey;
+}
+
 body {
 
-  font-family: sans-serif;
+  font-family: Georgia;
 }
 
 li {
@@ -14,8 +18,10 @@ li {
 p  {
   font-size: 18px}
 
-
-
+  figcaption{
+    color: grey;
+    </figcaption>
+}
 .center{
   display: block;
   margin-left: auto;
@@ -24,7 +30,7 @@ p  {
 }
 
 img {
-    width: 646px;
+    width: 625px;
     display:block;
     margin-left: auto;
     margin-right: auto;
